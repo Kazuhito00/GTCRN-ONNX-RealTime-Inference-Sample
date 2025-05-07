@@ -1,0 +1,4 @@
+sounddevice
+soundfile
+onnx
+onnxruntime
