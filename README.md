@@ -22,6 +22,10 @@ python mic-sample.py
 マイクはデフォルトマイクで動作します。<br>
 プログラム終了は「Ctrl＋C」です。停止までの録音ファイルが「output.wav」として保存されます。
 
+# Reference
+* [Xiaobin-Rong/gtcrn](https://github.com/Xiaobin-Rong/gtcrn)
+* [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
